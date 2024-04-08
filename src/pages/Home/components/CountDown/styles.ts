@@ -6,8 +6,20 @@ export const CountDownContainer = styled.div`
   line-height: 8rem;
   color: ${(props) => props.theme["gray-100"]};
   display: flex;
-
   gap: 1rem;
+  @media (max-width: 768px) {
+    font-size: 6rem;
+  }
+
+  @media (max-width: 640px) {
+    font-size: 4rem;
+    line-height: 6rem;
+  }
+
+  @media (max-width: 500px) {
+    font-size: 3rem;
+    line-height: 5rem;
+  }
 
   span {
     background: ${(props) => props.theme["gray-700"]};

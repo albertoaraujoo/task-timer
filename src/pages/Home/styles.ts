@@ -31,6 +31,9 @@ export const BaseCountDownButtons = styled.button`
     cursor: not-allowed;
     opacity: 0.7;
   }
+  @media (max-width: 640px) {
+    width: 95%;
+  }
 `;
 
 export const StartCountDownButton = styled(BaseCountDownButtons)`
