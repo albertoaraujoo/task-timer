@@ -39,6 +39,6 @@ Steps to install:
 - ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 - ![Date-Fns](https://img.shields.io/badge/datefns-770C56.svg?style=for-the-badge&logo=date-fns&logoColor=white)
 - ![Immer-Js](https://img.shields.io/badge/Immer-00E7C3.svg?style=for-the-badge&logo=Immer&logoColor=white)
-- - ![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white)
+- ![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white)
   
 
