@@ -24,7 +24,7 @@ Etapas para instalar:
 
 Steps to install:
 
-1 - Clone the repository: git clone https://github.com/albertoaraujoo/web-crypto-app.git
+1 - Clone the repository: git clone https://github.com/albertoaraujoo/task-timer.git
 2 - Access the project directory: cd task-timer 
 3 - Install the dependencies: npm install
 4 - Run the project: npm run dev
