@@ -10,7 +10,7 @@ The project did not have a responsive design, so I only added a brief fix for th
 
 ### ⚙️ Prerequisites
 
-Before you begin, make sure you have Node.js and npm (or yarn) installed on your machine. Additionally, install the MetaMask wallet extension in your browser.
+Before you begin, make sure you have Node.js and npm (or yarn) installed on your machine. 
 
 You will also need a code editor, such as VSCode or Sublime Text, to work on the project.
 
