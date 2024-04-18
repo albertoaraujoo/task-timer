@@ -18,10 +18,6 @@ Make sure your development environment is properly configured to work with React
 
 ### 🔨 Installation Guide
 
-Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
-
-Etapas para instalar:
-
 Steps to install:
 
 1 - Clone the repository: git clone https://github.com/albertoaraujoo/task-timer.git
